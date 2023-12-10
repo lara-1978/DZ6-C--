@@ -1,0 +1,15 @@
+D:\DZ 6 C#\решения задач\obj\Debug\net6.0\решения задач.csproj.AssemblyReference.cache
+D:\DZ 6 C#\решения задач\obj\Debug\net6.0\решения задач.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ 6 C#\решения задач\obj\Debug\net6.0\решения задач.AssemblyInfoInputs.cache
+D:\DZ 6 C#\решения задач\obj\Debug\net6.0\решения задач.AssemblyInfo.cs
+D:\DZ 6 C#\решения задач\obj\Debug\net6.0\решения задач.csproj.CoreCompileInputs.cache
+D:\DZ 6 C#\решения задач\bin\Debug\net6.0\решения задач.exe
+D:\DZ 6 C#\решения задач\bin\Debug\net6.0\решения задач.deps.json
+D:\DZ 6 C#\решения задач\bin\Debug\net6.0\решения задач.runtimeconfig.json
+D:\DZ 6 C#\решения задач\bin\Debug\net6.0\решения задач.dll
+D:\DZ 6 C#\решения задач\bin\Debug\net6.0\решения задач.pdb
+D:\DZ 6 C#\решения задач\obj\Debug\net6.0\решения задач.dll
+D:\DZ 6 C#\решения задач\obj\Debug\net6.0\refint\решения задач.dll
+D:\DZ 6 C#\решения задач\obj\Debug\net6.0\решения задач.pdb
+D:\DZ 6 C#\решения задач\obj\Debug\net6.0\решения задач.genruntimeconfig.cache
+D:\DZ 6 C#\решения задач\obj\Debug\net6.0\ref\решения задач.dll
